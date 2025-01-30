@@ -32,7 +32,7 @@ A simple task manager built with React, Redux, and Material UI to demonstrate co
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/task-manager.git
+   git clone https://github.com/MaheshSistu/demo.git
 
    ```
 
